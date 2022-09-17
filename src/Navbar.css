@@ -1,0 +1,18 @@
+
+nav {
+    width: 100vw;
+    padding: 20px;
+    background-color: black;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 1rem;
+    opacity: 0.4;
+}
+
+nav a.active {
+    opacity: 1;
+}
+
